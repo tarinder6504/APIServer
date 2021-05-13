@@ -1,7 +1,7 @@
 {
    "seniorManager":[
       {
-         "EmpID":1,
+         "id":1,
          "EmpName":"David",
          "role":"Senior Manager",
          "dateOfBirth":"01-01-1990",
@@ -11,7 +11,7 @@
    ],
    "manager":[
       {
-         "EmpID":111,
+         "id":111,
          "EmpName":"John",
          "role":"Manager",
          "dateOfBirth":"10-08-1992",
@@ -20,7 +20,7 @@
          "reportTo":1
       },
       {
-         "EmpID":111,
+         "id":112,
          "EmpName":"Watson",
          "role":"Manager",
          "dateOfBirth":"18-08-1992",
@@ -31,7 +31,7 @@
    ],
    "tester":[
       {
-         "EmpID":201,
+         "id":201,
          "EmpName":"Jeff",
          "role":"Tester",
          "dateOfBirth":"10-08-1993",
@@ -40,7 +40,7 @@
          "reportTo":111
       },
       {
-         "EmpID":202,
+         "id":202,
          "EmpName":"Matt",
          "role":"Tester",
          "dateOfBirth":"18-08-1994",
@@ -49,7 +49,7 @@
          "reportTo":111
       },
       {
-         "EmpID":203,
+         "id":203,
          "EmpName":"Lee",
          "role":"Tester",
          "dateOfBirth":"18-12-1993",
@@ -60,7 +60,7 @@
    ],
    "developer":[
       {
-         "EmpID":301,
+         "id":301,
          "EmpName":"Chris",
          "role":"Developer",
          "dateOfBirth":"10-08-1992",
@@ -69,7 +69,7 @@
          "reportTo":112
       },
       {
-         "EmpID":302,
+         "id":302,
          "EmpName":"James",
          "role":"Developer",
          "dateOfBirth":"18-08-1992",
@@ -78,7 +78,7 @@
          "reportTo":112
       },
       {
-         "EmpID":303,
+         "id":303,
          "EmpName":"Martin",
          "role":"Developer",
          "dateOfBirth":"18-08-1992",
@@ -87,7 +87,7 @@
          "reportTo":112
       },
       {
-         "EmpID":304,
+         "id":304,
          "EmpName":"Dan",
          "role":"Developer",
          "dateOfBirth":"10-08-1992",
