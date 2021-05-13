@@ -1,0 +1,24 @@
+{
+  "seniorManager": [
+    { "EmpName": "David", "role": "Senior Manager", "dateOfBirth": "01-01-1990", "dateOfJoin": "01-01-2010" , "officeLocation" : "Toronto","EmpID" : 1}
+  ],
+  "manager": [
+   { "EmpName": "John", "role": "Manager", "dateOfBirth": "10-08-1992", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 1, "EmpID" : 111},
+   { "EmpName": "Watson", "role": "Manager", "dateOfBirth": "18-08-1992", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 1, "EmpID" : 112}
+  ],
+  "tester": [
+  
+  { "EmpName": "Jeff", "role": "Tester", "dateOfBirth": "10-08-1993", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 111, "EmpID" : 201},
+   { "EmpName": "Matt", "role": "Tester", "dateOfBirth": "18-08-1994", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 111, "EmpID" : 202},
+   { "EmpName": "Lee", "role": "Tester", "dateOfBirth": "18-12-1993", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 112, "EmpID" : 203}
+  
+  ],
+  "developer": [
+  { "EmpName": "Chris", "role": "Developer", "dateOfBirth": "10-08-1992", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 112, "EmpID" : 301},
+   { "EmpName": "James", "role": "Developer", "dateOfBirth": "18-08-1992", "dateOfJoin": "01-01-2013" , "officeLocation" : "Toronto", "reportTo" : 112, "EmpID" : 302},
+   { "EmpName": "Martin", "role": "Developer", "dateOfBirth": "18-08-1992", "dateOfJoin": "01-01-2014" , "officeLocation" : "Toronto", "reportTo" : 112, "EmpID" : 303},
+   { "EmpName": "Dan", "role": "Developer", "dateOfBirth": "10-08-1992", "dateOfJoin": "01-01-2015" , "officeLocation" : "Toronto", "reportTo" : 112, "EmpID" : 304}
+    
+  ]
+  
+}
