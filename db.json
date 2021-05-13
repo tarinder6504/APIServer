@@ -1,99 +1,24 @@
 {
-   "seniorManager":[
-      {
-         "EmpID":1,
-         "EmpName":"David",
-         "role":"Senior Manager",
-         "dateOfBirth":"01-01-1990",
-         "dateOfJoin":"01-01-2010",
-         "officeLocation":"Toronto"
-      }
-   ],
-   "manager":[
-      {
-         "EmpID":111,
-         "EmpName":"John",
-         "role":"Manager",
-         "dateOfBirth":"10-08-1992",
-         "dateOfJoin":"01-01-2012",
-         "officeLocation":"Toronto",
-         "reportTo":1
-      },
-      {
-         "EmpID":111,
-         "EmpName":"Watson",
-         "role":"Manager",
-         "dateOfBirth":"18-08-1992",
-         "dateOfJoin":"01-01-2012",
-         "officeLocation":"Toronto",
-         "reportTo":1
-      }
-   ],
-   "tester":[
-      {
-         "EmpID":201,
-         "EmpName":"Jeff",
-         "role":"Tester",
-         "dateOfBirth":"10-08-1993",
-         "dateOfJoin":"01-01-2012",
-         "officeLocation":"Toronto",
-         "reportTo":111
-      },
-      {
-         "EmpID":202,
-         "EmpName":"Matt",
-         "role":"Tester",
-         "dateOfBirth":"18-08-1994",
-         "dateOfJoin":"01-01-2012",
-         "officeLocation":"Toronto",
-         "reportTo":111
-      },
-      {
-         "EmpID":203,
-         "EmpName":"Lee",
-         "role":"Tester",
-         "dateOfBirth":"18-12-1993",
-         "dateOfJoin":"01-01-2012",
-         "officeLocation":"Toronto",
-         "reportTo":112
-      }
-   ],
-   "developer":[
-      {
-         "EmpID":301,
-         "EmpName":"Chris",
-         "role":"Developer",
-         "dateOfBirth":"10-08-1992",
-         "dateOfJoin":"01-01-2012",
-         "officeLocation":"Toronto",
-         "reportTo":112
-      },
-      {
-         "EmpID":302,
-         "EmpName":"James",
-         "role":"Developer",
-         "dateOfBirth":"18-08-1992",
-         "dateOfJoin":"01-01-2013",
-         "officeLocation":"Toronto",
-         "reportTo":112
-      },
-      {
-         "EmpID":303,
-         "EmpName":"Martin",
-         "role":"Developer",
-         "dateOfBirth":"18-08-1992",
-         "dateOfJoin":"01-01-2014",
-         "officeLocation":"Toronto",
-         "reportTo":112
-      },
-      {
-         "EmpID":304,
-         "EmpName":"Dan",
-         "role":"Developer",
-         "dateOfBirth":"10-08-1992",
-         "dateOfJoin":"01-01-2015",
-         "officeLocation":"Toronto",
-         "reportTo":112
-      }
-   ]
+  "seniorManager": [
+    { "EmpID" : 1 ,"EmpName": "David", "role": "Senior Manager", "dateOfBirth": "01-01-1990", "dateOfJoin": "01-01-2010" , "officeLocation" : "Toronto",}
+  ],
+  "manager": [
+   { "EmpID" : 111  , "EmpName": "John", "role": "Manager", "dateOfBirth": "10-08-1992", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 1},
+   { "EmpID" : 111,"EmpName": "Watson", "role": "Manager", "dateOfBirth": "18-08-1992", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 1}
+  ],
+  "tester": [
+  
+  { "EmpID" : 201,"EmpName": "Jeff", "role": "Tester", "dateOfBirth": "10-08-1993", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 111},
+   { "EmpID" : 202,"EmpName": "Matt", "role": "Tester", "dateOfBirth": "18-08-1994", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 111},
+   { "EmpID" : 203,"EmpName": "Lee", "role": "Tester", "dateOfBirth": "18-12-1993", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 112}
+  
+  ],
+  "developer": [
+  { "EmpID" : 301,"EmpName": "Chris", "role": "Developer", "dateOfBirth": "10-08-1992", "dateOfJoin": "01-01-2012" , "officeLocation" : "Toronto", "reportTo" : 112},
+   { "EmpID" : 302 ,"EmpName": "James", "role": "Developer", "dateOfBirth": "18-08-1992", "dateOfJoin": "01-01-2013" , "officeLocation" : "Toronto", "reportTo" : 112},
+   { "EmpID" : 303, "EmpName": "Martin", "role": "Developer", "dateOfBirth": "18-08-1992", "dateOfJoin": "01-01-2014" , "officeLocation" : "Toronto", "reportTo" : 112},
+   { "EmpID" : 304,"EmpName": "Dan", "role": "Developer", "dateOfBirth": "10-08-1992", "dateOfJoin": "01-01-2015" , "officeLocation" : "Toronto", "reportTo" : 112}
+    
+  ]
+  
 }
